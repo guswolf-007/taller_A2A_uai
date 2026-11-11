@@ -1,0 +1,17 @@
+.env
+.venv/
+.venv-crew/
+__pycache__/
+.langgraph_api/
+.pytest_cache/
+.DS_Store
+
+# Datos locales y archivos generados
+data/
+datos/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.jsonl
+*.parquet
