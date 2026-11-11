@@ -51,3 +51,4 @@ python main.py restaurantes --diagrama
 ```
 
 La opción `--saltos` muestra los nodos y herramientas utilizados. La opción `--diagrama` imprime la estructura Mermaid sin ejecutar el agente.
+# taller_A2A_uai
